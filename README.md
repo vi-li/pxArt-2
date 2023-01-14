@@ -1,0 +1,3 @@
+# pxArt
+
+Collaborative pixel art!
